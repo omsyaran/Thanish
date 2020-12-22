@@ -11,6 +11,8 @@ public class HelloWorld{
 			System.out.println("Hello world! " + arg[0]);
 		else
 			System.out.println("Hello world!");
+		
+		System.out.println("new changes taruh sini");
 	}	
 	
 	
